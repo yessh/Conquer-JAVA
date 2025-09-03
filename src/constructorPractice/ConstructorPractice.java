@@ -1,3 +1,5 @@
+package constructorPractice;
+
 class A {
 
     Long id;
@@ -16,5 +18,5 @@ class B {
 
     A a = new A();
 
-    // int A(--){--} 가 메서드로 인식되었기에, 자동으로 기본 생성자 사용.
+    // int constructorPractice.A(--){--} 가 메서드로 인식되었기에, 자동으로 기본 생성자 사용.
 }
