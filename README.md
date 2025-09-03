@@ -6,3 +6,7 @@ private과 static의 위치에 따라 어떤 일이 일어나는지 헷갈렸음
 - private class, private method
 - static class, static method
 등등이 어떤 결과를 일으키는지, 그리고 어떤 목적을 위한 것인지 이해.
+
+
+## 20250903 - 생성자 헷갈리는 개념 잡기, 
+- 생성자와 메서드 헷갈리는 것 바로잡기.
