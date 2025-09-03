@@ -1,0 +1,9 @@
+# 자바 언어 이해의 중요성을 알고 연습 위함.
+
+## 20250902
+ - private, static, 함수형인터페이스, 익명클래스, 람다
+
+private과 static의 위치에 따라 어떤 일이 일어나는지 헷갈렸음.
+- private class, private method
+- static class, static method
+등등이 어떤 결과를 일으키는지, 그리고 어떤 목적을 위한 것인지 이해.
